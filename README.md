@@ -1,2 +1,0 @@
-# Ghifiles
-file.js
